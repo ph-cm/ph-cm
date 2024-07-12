@@ -29,7 +29,6 @@
 
 ##
 
-![Snake animation](
 
           
             
