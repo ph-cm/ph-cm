@@ -8,7 +8,7 @@
 
  ##
   
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ph-cm&show_icons=true&theme=transparent)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ph-cm&show=reviews&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ph-cm&hide_progress=true&theme=transparent)
 
 ##
