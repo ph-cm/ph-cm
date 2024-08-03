@@ -1,7 +1,7 @@
 ## Hi there, i'm Pedro 👋
 
-- I’m currently working on Java aplications
-- I’m currently learning Web services with Spring Boot and JPA
+- I’m currently working on develop C and Assembly skills
+- I’m currently learning low level programming using Assembly and C
 - I’m looking for help with Cybersecurity and JPA
 - Contact me on email: trabalho.prog.pedro@gmail.com
 - Pronouns: he/him
