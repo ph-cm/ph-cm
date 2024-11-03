@@ -1,8 +1,8 @@
 ## Hi there, i'm Pedro 👋
 
-- I’m currently working on develop C and Assembly skills
-- I’m currently learning low level programming using Assembly and C
-- I’m looking for help with Cybersecurity and JPA
+- I’m currently working on develop python and Machine Learning skills
+- I’m currently learning AI programming using python
+- I’m looking for help with Neural Network and Machine Learning 
 - Contact me on email: trabalho.prog.pedro@gmail.com
 - Pronouns: he/him
 
