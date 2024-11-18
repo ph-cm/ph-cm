@@ -6,8 +6,6 @@
 - Contact me on email: trabalho.prog.pedro@gmail.com
 - Pronouns: he/him
 
-### Hey 👋, I'm appleboy
-
 [![Github](https://img.shields.io/github/followers/ph-cm?label=Follow&style=social)](https://github.com/ph-cm)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ph-cm&theme=github)
