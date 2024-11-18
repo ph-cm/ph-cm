@@ -6,11 +6,15 @@
 - Contact me on email: trabalho.prog.pedro@gmail.com
 - Pronouns: he/him
 
- ##
-  
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=ph-cm&show=reviews&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ph-cm&hide_progress=true&theme=transparent)
+### Hey 👋, I'm appleboy
 
+[![Github](https://img.shields.io/github/followers/ph-cm?label=Follow&style=social)](https://github.com/ph-cm)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ph-cm&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ph-cm&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ph-cm&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ph-cm&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ph-cm&theme=github)
 ##
 
 <div style='display: inline_block'><br>
