@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-- I'm a computer engineering student how has experience with, java, spring, python, computer vision, C, embedded systems 
+- I'm a computer engineering student who has experience with, java, spring, python, computer vision, C, embedded systems 
 - I’m currently working on develop python and Machine Learning skills
 - I’m currently learning AI programming using python
 - Contact me on email: trabalho.prog.pedro@gmail.com
